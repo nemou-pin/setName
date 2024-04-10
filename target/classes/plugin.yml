@@ -1,8 +1,0 @@
-name: setName
-version: '1.0-SNAPSHOT'
-main: club.nyandere.setname.SetName
-api-version: '1.18'
-commands:
-  setname:
-    description: "Change DisplayName"
-    usage: "/setname <name>"
