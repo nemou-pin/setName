@@ -1,0 +1,8 @@
+name: setName
+version: '${project.version}'
+main: club.nyandere.setname.SetName
+api-version: '1.18'
+commands:
+  setname:
+    description: "Change DisplayName"
+    usage: "/setname <name>"
